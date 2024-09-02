@@ -6,6 +6,8 @@
 
 Este projeto visa automatizar a criação e gestão de credenciais AWS e GCP, além de configurar e gerenciar recursos na nuvem utilizando scripts Bash e Terraform. A solução abrange desde a criação e backup de arquivos de credenciais até a orquestração de infraestrutura multicloud, permitindo uma integração fluida entre os ambientes AWS e GCP.
 
+![arquitetura](https://github.com/user-attachments/assets/d219c564-36f5-46f0-b4a4-e4b698817f01)
+
 ## Funcionalidades
 
 - **Criação de Chaves de Acesso AWS:** Geração de um arquivo `accessKeys.csv` contendo as chaves de acesso e secretas da AWS.
